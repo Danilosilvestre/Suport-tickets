@@ -1,0 +1,14 @@
+{
+  "name": "suport-tickets",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de suporte a tickets",
+  "main": "./src/server.js",
+  "scripts": {
+    "dev": "node --watch ./src/server.js"
+  },
+
+  "author": "Danilo da Cruz",
+  "license": "ISC"
+  
+}
